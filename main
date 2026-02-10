@@ -1,0 +1,23 @@
+[33mcommit 5b8def37afdc3a6672d1e85e983a99f2f9755080[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd_classics[m[33m)[m
+Author: alistairosiris <mohammedehab2003@icloud.com>
+Date:   Tue Feb 10 16:45:16 2026 +0200
+
+    D: add a csv of classics
+
+[33mcommit 9bee8639e2de4e176ff9e31d664ca798b00a7311[m[33m ([m[1;32mmain[m[33m)[m
+Author: alistairosiris <mohammedehab2003@icloud.com>
+Date:   Tue Feb 10 16:01:53 2026 +0200
+
+    C: add quotes
+
+[33mcommit 7d98d2d622ea86578202d24803bf3ef4fe7c841d[m
+Author: alistairosiris <mohammedehab2003@icloud.com>
+Date:   Tue Feb 10 15:47:27 2026 +0200
+
+    B: add some titles
+
+[33mcommit f238143c3007880400f5452fbdca5331c90ed90b[m
+Author: alistairosiris <mohammedehab2003@icloud.com>
+Date:   Mon Feb 9 17:25:14 2026 +0200
+
+    A: add contents.md
